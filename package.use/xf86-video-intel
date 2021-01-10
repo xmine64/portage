@@ -1,0 +1,1 @@
+x11-drivers/xf86-video-intel dri dri3 sna udev xvmc -debug -tools -uxa

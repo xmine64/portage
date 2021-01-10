@@ -1,0 +1,3 @@
+media-video/ffmpeg encode x264 x265 webp vorbis v4l network mp3 gpl amr amrenc chromaprint chromiuim codec2 dav1d fribidi jpeg2k kvazaar libaom libaribb24 libass libdrm openal openh264 srt truetype vpx wavpack xvid fontconfig opus svg
+# used by vnc
+media-video/ffmpeg postproc

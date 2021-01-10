@@ -1,0 +1,2 @@
+# required by x11-base/xorg-server
+media-libs/libepoxy egl

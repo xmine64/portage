@@ -1,0 +1,5 @@
+app-emulation/qemu aio numa usb usbredir vhost-net vhost-user-fs xen zstd bzip2 doc gtk
+sys-firmware/seabios seavgabios binary
+sys-firmware/sgabios binary
+sys-firmware/ipxe qemu binary
+sys-firmware/edk2-ovmf binary

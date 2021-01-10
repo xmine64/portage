@@ -1,0 +1,1 @@
+x11-drivers/nvidia-drivers X acpi compat driver gtk3 tools libglvnd multilib -uvm -kms -pax_kernel -static-libs -wayland

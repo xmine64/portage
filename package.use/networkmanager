@@ -1,0 +1,1 @@
+net-misc/networkmanager dhclient elogind wifi resolvconf ncurses nss -bluetooth

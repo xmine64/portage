@@ -1,0 +1,17 @@
+sys-apps/acl static-libs
+sys-apps/attr static-libs
+dev-libs/libgcrypt static-libs
+dev-libs/libgpg-error static-libs
+
+# required by thunar
+dev-libs/json-c static-libs
+dev-libs/popt static-libs
+sys-apps/util-linux static-libs
+dev-libs/openssl static-libs
+sys-fs/lvm2 static-libs
+dev-libs/libaio static-libs
+virtual/libudev static-libs
+
+# required by sys-apps/smartmontools
+sys-libs/libcap-ng static-libs
+
